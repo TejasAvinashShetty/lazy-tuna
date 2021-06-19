@@ -1,5 +1,8 @@
 # pyfoobar
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![PyPi Version](https://img.shields.io/pypi/v/pyfoobar.svg?style=flat-square)](https://pypi.org/project/pyfoobar)
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/pyfoobar.svg?style=flat-square)](https://pypi.org/pypi/pyfoobar/)
 [![GitHub stars](https://img.shields.io/github/stars/nschloe/pyfoobar.svg?style=flat-square&logo=github&label=Stars&logoColor=white)](https://github.com/nschloe/pyfoobar)
